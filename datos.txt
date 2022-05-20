@@ -1,0 +1,5 @@
+BETA
+Nombre: Gabriel
+Apellido: Alegre
+Ip de la maquina: 2800:810:484
+Hora: 10:14
