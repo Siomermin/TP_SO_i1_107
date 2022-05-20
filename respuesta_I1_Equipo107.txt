@@ -1,5 +1,13 @@
 Gonzalez Fermin(ALFA), Alegre Gabriel(BETA) y Hernandez Nicolas(GAMMA)
 
+a-¿ALFA ve los datos que cargaron los demás en su repositorio?
 a) Si, si lo hacen de forma local.
 
+b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
 b) Si, lo pueden ver.
+
+c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+c)Si, los demas lo ven.
+
+d-¿De qué forma se comunicaron ustedes?
+d) Nos comunicammos a traves de discord y Whatsapp
