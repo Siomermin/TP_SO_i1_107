@@ -12,4 +12,6 @@ c)Si, los demas lo ven.
 d-¿De qué forma se comunicaron ustedes?
 d) Nos comunicammos a traves de discord y Whatsapp
 
-e) Atravez de discord y los commit fuero la manera mas facil de comunicacion
+e) La mejor forma de comunicarse entre nosotros dentro de github es a través de la solapa “projects”, 
+ya que aquí cada integrante cargara la información que crea importante logrando así tener un seguimiento esquemático de los cambios que se realizaron dentro del repositorio.
+También, otra forma seria a través de los commit, por sus mensajes cortos y concisos que describen los cambios realizados y quien fue la persona que realizo dicho cambio.
