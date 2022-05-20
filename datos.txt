@@ -3,3 +3,9 @@ Nombre: Gabriel
 Apellido: Alegre
 Ip de la maquina: 192.168.0.4
 Hora: 10:14
+
+GAMA
+Nombre: Nicolas
+Apellido: Hernandez
+Ip de la maquina: 181.46.66.143
+Hora: 10:23
