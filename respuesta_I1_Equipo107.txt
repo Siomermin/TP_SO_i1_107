@@ -11,3 +11,5 @@ c)Si, los demas lo ven.
 
 d-¿De qué forma se comunicaron ustedes?
 d) Nos comunicammos a traves de discord y Whatsapp
+
+e) Atravez de discord y los commit fuero la manera mas facil de comunicacion
